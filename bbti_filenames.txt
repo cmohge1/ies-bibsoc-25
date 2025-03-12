@@ -1,0 +1,13 @@
+.import abbreviations.tsv abbreviations
+.import sourceshtml.tsv sources
+.import tblbooktradetraderid_secondarytradeid.tsv traderid
+.import tblcountries.tsv countries
+.import tblcounty.tsv counties
+.import tbldatesuffixes.tsv datesuffixes
+.import tblnonbooktrades.tsv nonbooktrades
+.import tblprimarytrades.tsv primarytrades
+.import tblsecondarytrades.tsv secondarytrades
+.import tbltraderid_booktrade.tsv booktraderid
+.import tbltraderid_nonbooktrade.tsv nonbooktraderid
+.import tbltraderid_sourcecode.tsv traderidsourcecode
+.import tbltradersmain.tsv traders
